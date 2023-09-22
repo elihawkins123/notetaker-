@@ -43,7 +43,7 @@ const questions = [{
         type: 'list',
         message: 'What is your license?',
         name: 'license',
-        choices: ['Apache', 'MIT', 'Perl'],
+        choices: ['Apache', 'MIT', 'Perl', "none"],
       },{
         type: 'input',
         name: 'Github_username',
