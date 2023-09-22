@@ -1,5 +1,5 @@
-# b
-  ![githublicense](https://img.shields.io/badge/license-MIT-red.svg)
+# j
+  
   
   ## Description
   
@@ -12,7 +12,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
-  - [License](#license)
+  
   
   ## Installation
   
@@ -24,7 +24,7 @@
       
   ## License
  
-  MIT
+  none
      
   ## Contribute
   
