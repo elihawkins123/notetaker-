@@ -1,5 +1,5 @@
 # j
-  
+  ![githublicense](https://img.shields.io/badge/license-Apache-red.svg)
   
   ## Description
   
@@ -13,6 +13,8 @@
   - [Usage](#usage)
   - [Credits](#credits)
   
+- [License](#license)
+
   
   ## Installation
   
@@ -24,7 +26,7 @@
       
   ## License
  
-  none
+  Apache
      
   ## Contribute
   
@@ -40,4 +42,8 @@
 <br>
 
 j
+
+## License
+    this application has a Apache license
+    
   
